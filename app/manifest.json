@@ -33,7 +33,8 @@
       "styles/main.css"
     ],
     "js": [
-      "scripts/contentscript.js"
+      "scripts/contentscript.js",
+      "bower_components/translitit-latin-to-mkhedruli-georgian/translitit-latin-to-mkhedruli-georgian.js"
     ],
     "run_at": "document_end",
     "all_frames": false
